@@ -39,6 +39,9 @@ app/renderer.prod.js
 app/renderer.prod.js.map
 app/style.css
 app/style.css.map
+*.css
+*.json
+*.html
 dist
 dll
 main.js
@@ -47,6 +50,7 @@ main.js.map
 .idea
 npm-debug.log.*
 __snapshots__
+*.md
 
 # Package.json
 package.json
